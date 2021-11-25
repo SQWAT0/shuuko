@@ -1,0 +1,4 @@
+users = {
+'Artbom',
+'linius'
+}

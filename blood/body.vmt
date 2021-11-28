@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\z-piks.ru\gta\blood\body"
+	"$bumpmap"	"models\player\custom_player\z-piks.ru\gta\blood\body_n"
+
+ 	"$phong" "1"
+	"$phongexponent" "9"
+	"$phongboost"	".015"
+	"$phongfresnelranges"	"[1 1 1]"
+}

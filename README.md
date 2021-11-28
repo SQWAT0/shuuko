@@ -1,2 +1,2 @@
 # shuuko
-Shuuko lua users
+✨Shuuko.lua for nixware.cc✨

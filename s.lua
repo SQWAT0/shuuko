@@ -1,4 +1,0 @@
-users = {
-'Artbom',
-'linius',
-}

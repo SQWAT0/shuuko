@@ -1,3 +1,4 @@
-users = {
-'Artbom'
+local users = {
+'Artbom',
+'filipcrack',
 }

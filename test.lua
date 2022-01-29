@@ -1,2 +1,2 @@
 local username = client.get_username()
-local whitelist = username == "Artbom" 
+local whitelist = "Artbom","filipcrack","linius"

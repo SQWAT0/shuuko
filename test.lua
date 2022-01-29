@@ -1,2 +1,1 @@
-
-local whitelist = username == "Artbom"
+local whitelist = if username == "Artbom" then
